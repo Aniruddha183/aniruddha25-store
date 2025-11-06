@@ -1,4 +1,4 @@
-# Aniruddha25 Store
+# Aniruddha25 EDITED Store
 
 This is your customized e-commerce store built with **Next.js** and **Tailwind CSS**.
 

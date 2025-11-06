@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "name": "Premium Wireless Headphones",
+    "price": 299.99,
+    "description": "Experience crystal-clear audio with our premium wireless headphones. Featuring active noise cancellation and 30-hour battery life.",
+    "images": [
+      "https://images.pexels.com/photos/3587478/pexels-photo-3587478.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "category": "Electronics",
+    "inStock": true
+  },
+  {
+    "id": "2",
+    "name": "Minimalist Watch",
+    "price": 199.99,
+    "description": "Timeless design meets modern craftsmanship. This minimalist watch features a sapphire crystal and genuine leather band.",
+    "images": [
+      "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "category": "Accessories",
+    "inStock": true
+  },
+  {
+    "id": "3",
+    "name": "Leather Backpack",
+    "price": 149.99,
+    "description": "Handcrafted from premium leather, this backpack combines style with functionality. Perfect for work or travel.",
+    "images": [
+      "https://images.pexels.com/photos/2905238/pexels-photo-2905238.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "category": "Bags",
+    "inStock": true
+  },
+  {
+    "id": "4",
+    "name": "Smart Fitness Tracker",
+    "price": 129.99,
+    "description": "Track your fitness goals with precision. Heart rate monitoring, sleep tracking, and GPS navigation.",
+    "images": [
+      "https://images.pexels.com/photos/437039/pexels-photo-437039.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "category": "Electronics",
+    "inStock": true
+  },
+  {
+    "id": "5",
+    "name": "Organic Cotton T-Shirt",
+    "price": 39.99,
+    "description": "Sustainable and comfortable. Made from 100% organic cotton with a perfect fit.",
+    "images": [
+      "https://images.pexels.com/photos/1334602/pexels-photo-1334602.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "category": "Clothing",
+    "inStock": true
+  },
+  {
+    "id": "6",
+    "name": "Modern Table Lamp",
+    "price": 89.99,
+    "description": "Illuminate your space with style. Adjustable brightness and sleek modern design.",
+    "images": [
+      "https://images.pexels.com/photos/1112598/pexels-photo-1112598.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "category": "Home",
+    "inStock": true
+  }
+]
